@@ -19,7 +19,7 @@ a {
 div > ul {
   display: flex;
   justify-content: right;
-  margin-right: 250px;
+  margin-right: 220px;
   margin-top: 10px;
 }
 
