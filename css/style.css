@@ -79,7 +79,7 @@ h2 {
   font-weight: bold;
   font-size: 3.5rem;
   position: relative;
-  margin-left: 220px;
+  margin-left: 20px;
   top: 0px;
 }
 
@@ -107,6 +107,7 @@ h2 {
   height: auto;
   background-repeat: no-repeat;
   background-position: center;
+  text-align: center;
 }
 
 .four {
@@ -326,7 +327,7 @@ h2 {
   #logo-home {
     width: 120px;
     height: auto;
-    margin-left: 240px;
+    margin-left: 200px;
     margin-top: 15px;
     z-index: 3;
     position: fixed;
@@ -335,7 +336,7 @@ h2 {
   /* Sticky header */
   #sticky-head {
     background-color: #343029;
-    height: 14vh;
+    height: 100px;
     width: 100%;
     position: fixed;
     z-index: 1;
